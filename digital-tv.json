@@ -37,7 +37,7 @@
     {
       "name": "oned31",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
-      "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/profile_1/a555200899b04b578a23ca798b9047e6/chunklist_ssaiV.m3u8",
+      "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/profile_1/d923ae8d5cba4434882b218363946db7/chunklist_ssaiV.m3u8",
       "referer": "https://www.oned.net/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
@@ -64,7 +64,7 @@
     {
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
-      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8",
+      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8?",
       "referer": "https://www.pptvhd36.com/live",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
