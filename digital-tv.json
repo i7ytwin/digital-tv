@@ -35,9 +35,18 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "gmm25",
+      "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",
+      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/chunks.m3u8",
+      "referer": "https://www.oned.net/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "oned31",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
-      "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/profile_1/d923ae8d5cba4434882b218363946db7/chunklist_ssaiV.m3u8",
+      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv31_onehd/chunks.m3u8",
       "referer": "https://www.oned.net/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
@@ -64,7 +73,7 @@
     {
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
-      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8?",
+      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8",
       "referer": "https://www.pptvhd36.com/live",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
