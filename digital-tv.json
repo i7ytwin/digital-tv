@@ -29,7 +29,7 @@
       "name": "true4u",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/1024px-True4U_Logo.svg.png",
       "url": "https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8",
-      "referer": "https://www.sooplive.com/workpoint",
+      "referer": "https://www.inwiptv.pro/demo.php",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -47,7 +47,7 @@
       "name": "gmm25",
       "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",
       "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/chunks.m3u8",
-      "referer": "https://www.oned.net/",
+      "referer": "https://www.inwiptv.pro/demo.php",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -56,7 +56,7 @@
       "name": "oned31",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
       "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv31_onehd/chunks.m3u8",
-      "referer": "https://www.oned.net/",
+      "referer": "https://www.inwiptv.pro/demo.php",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -91,8 +91,8 @@
     {
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
-      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/1080p/index.m3u8",
-      "referer": "https://www.pptvhd36.com/live",
+      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv36_pptvhd/chunks.m3u8",
+      "referer": "https://www.inwiptv.pro/demo.php",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
