@@ -1,0 +1,74 @@
+{
+  "name": "digital-tv",
+  "author": "-",
+  "image": "https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f535_color.png",
+  "url": "",
+  "info": "",
+ 
+  "stations": [
+   
+    {
+      "name": "mcot",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
+      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+      "referer": "https://tv.mcot.net/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "workpoint",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+      "url": "https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8",
+      "referer": "https://www.sooplive.com/workpoint",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "mono29",
+      "image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
+      "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+      "referer": "https://www.monomax.me/livetv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "oned31",
+      "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
+      "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/profile_1/a555200899b04b578a23ca798b9047e6/chunklist_ssaiV.m3u8",
+      "referer": "https://www.oned.net/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "thairath",
+      "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
+      "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+      "referer": "https://www.thairath.co.th/tv/live",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ch7",
+      "image": "https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png",
+      "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
+      "referer": "https://www.ch7.com/home",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "pptv",
+      "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
+      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/audio-hi/th/index.m3u8",
+      "referer": "https://www.pptvhd36.com/live",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+  ]
+}
