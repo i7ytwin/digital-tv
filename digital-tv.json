@@ -26,6 +26,15 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "true4u",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/1024px-True4U_Logo.svg.png",
+      "url": "https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8",
+      "referer": "https://www.sooplive.com/workpoint",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "mono29",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
       "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
@@ -56,6 +65,15 @@
       "name": "thairath",
       "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
       "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+      "referer": "https://www.thairath.co.th/tv/live",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ch3",
+      "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/chunks.m3u8",
       "referer": "https://www.thairath.co.th/tv/live",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
