@@ -10,7 +10,7 @@
     {
       "name": "mcot",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
-      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1068477748_b3000000.m3u8",
       "referer": "https://tv.mcot.net/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
@@ -19,7 +19,7 @@
     {
       "name": "workpoint",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
-      "url": "https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8",
+      "url": "https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8",
       "referer": "https://www.sooplive.com/workpoint",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
