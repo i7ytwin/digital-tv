@@ -27,8 +27,17 @@
     {
       "name": "workpoint",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+      "url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/workpointtv/chunks.m3u8",
+      "referer": "https://goal-th.com/",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "workpoint",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
       "url": "https://cdnsv1.bunnycdncloud.com/ball67/workpoint/digitaltv/workpoint/chunks.m3u8",
       "referer": "https://ball67.com/channels/workpoint",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -103,9 +112,9 @@
     {
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
-      "url": "https://cdnsv1.bunnycdncloud.com/ball67/pptv/digitaltv/pptv/chunks.m3u8",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
       "referer": "https://ball67.com/channels/pptv",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
