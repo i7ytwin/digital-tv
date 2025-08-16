@@ -19,8 +19,8 @@
     {
       "name": "workpoint",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
-      "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8",
-      "referer": "https://www.sooplive.com/workpoint",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/workpoint/digitaltv/workpoint/chunks.m3u8",
+      "referer": "https://ball67.com/channels/workpoint",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -28,8 +28,8 @@
     {
       "name": "true4u",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/1024px-True4U_Logo.svg.png",
-      "url": "https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8",
-      "referer": "https://www.inwiptv.pro/demo.php",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/true4u/digitaltv/true4u/chunks.m3u8",
+      "referer": "https://ball67.com/channels/true4u",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -46,8 +46,8 @@
     {
       "name": "gmm25",
       "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",
-      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/chunks.m3u8",
-      "referer": "https://www.inwiptv.pro/demo.php",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/gmm25/digitaltv/gmm25/chunks.m3u8",
+      "referer": "https://ball67.com/channels/gmm25",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -55,8 +55,8 @@
     {
       "name": "oned31",
       "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
-      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv31_onehd/chunks.m3u8",
-      "referer": "https://www.inwiptv.pro/demo.php",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/one31/digitaltv/one31/chunks.m3u8",
+      "referer": "https://ball67.com/channels/one31",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -73,8 +73,8 @@
     {
       "name": "ch3",
       "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
-      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/chunks.m3u8",
-      "referer": "https://www.thairath.co.th/tv/live",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/3hd/digitaltv/3hd/chunks.m3u8",
+      "referer": "https://ball67.com/channels/3hd",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
@@ -91,8 +91,17 @@
     {
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
-      "url": "https://freelive2.inwstream.com:1936/freelive-edge/dtv36_pptvhd/chunks.m3u8",
-      "referer": "https://www.inwiptv.pro/demo.php",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/pptv/digitaltv/pptv/chunks.m3u8",
+      "referer": "https://ball67.com/channels/pptv",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "pptv",
+      "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
+      "url": "https://pptv36-9h0yba.cdn.byteark.com/bamm-csai/playlist.m3u8",
+      "referer": "https://www.pptvhd36.com/live",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
