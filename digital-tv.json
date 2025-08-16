@@ -63,17 +63,17 @@
     {
       "name": "true4u",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/1024px-True4U_Logo.svg.png",
-      "url": "https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27156",
       "referer": "https://ball67.com/channels/true4u",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
     {
       "name": "true4u",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/1024px-True4U_Logo.svg.png",
-      "url": "https://www.inwiptv.com/player_demo.php?channel=27156",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25",
       "referer": "https://ball67.com/channels/true4u",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
