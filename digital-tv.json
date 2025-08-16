@@ -19,6 +19,14 @@
     {
       "name": "workpoint",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+      "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8",
+      "referer": "https://www.sooplive.com/workpoint",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "workpoint",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
       "url": "https://cdnsv1.bunnycdncloud.com/ball67/workpoint/digitaltv/workpoint/chunks.m3u8",
       "referer": "https://ball67.com/channels/workpoint",
       "info": "",
