@@ -19,6 +19,15 @@
     {
       "name": "mcot",
       "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+      "referer": "https://www.inwiptv.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "mcot",
+      "image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp",
       "url": "https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77",
       "referer": "https://tv.mcot.net/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
@@ -36,8 +45,18 @@
     {
       "name": "workpoint",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
-      "url": "https://goal-th.com/ช่องรายการทีวี/?id=519&tv=WorkpointTV",
-      "referer": "https://goal-th.com/",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+      "referer": "https://www.sooplive.com/workpoint",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "workpoint",
+      "image": "https://cms.dmpcdn.com/livetv/2023/11/17/2a1de990-852d-11ee-bf98-41acc8fd04fc_webp_original.webp",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=632f2696fd54ec81809f7920",
+      "referer": "https://aisplay.ais.co.th",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -79,9 +98,9 @@
     {
       "name": "gmm25",
       "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",
-      "url": "https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27153",
       "referer": "https://ball67.com/channels/gmm25",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -90,15 +109,6 @@
       "image": "https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",
       "url": "https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a",
       "referer": "https://ball67.com/channels/gmm25",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-      "info": "",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "oned31",
-      "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
-      "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
-      "referer": "https://ball67.com/channels/one31",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
       "info": "",
       "playInNatPlayer": "true"
@@ -113,6 +123,15 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "oned31",
+      "image": "https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
+      "referer": "https://ball67.com/channels/one31",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "thairath",
       "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
       "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
@@ -122,10 +141,34 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "thairath",
+      "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=60bd9c7b497960d3f9a3e222",
+      "referer": "https://www.thairath.co.th/tv/live",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "ch3",
       "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
-      "url": "https://cdnsv1.bunnycdncloud.com/ball67/3hd/digitaltv/3hd/chunks.m3u8",
-      "referer": "https://ball67.com/channels/3hd",
+      "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8",
+      "referer": "https://ch3plus.com/live",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ch3",
+      "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+      "url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+      "referer": "https://ch3plus.com/live",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ch3",
+      "image": "https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",
+      "url": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -135,6 +178,15 @@
       "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
       "referer": "https://www.ch7.com/home",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ch7",
+      "image": "https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446",
+      "referer": "https://www.ch7.com/home",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -151,7 +203,7 @@
       "name": "pptv",
       "image": "https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0",
       "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
-      "referer": "https://ball67.com/channels/pptv",
+      "referer": "https://www.inwiptv.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
